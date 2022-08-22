@@ -1,0 +1,1 @@
+# Tutorial Install Ubuntu Server 20.04 LTS Menggunakan VMWare
