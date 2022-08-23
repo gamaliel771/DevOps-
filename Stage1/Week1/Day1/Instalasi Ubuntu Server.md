@@ -1,4 +1,4 @@
-# Tutorial Install Ubuntu Server 20.04 LTS Menggunakan Virtual box
+# Tutorial Install Ubuntu Server 20.04 LTS Menggunakan Virtualbox
 ![ubuntu-server-logo](https://user-images.githubusercontent.com/78194305/186046844-12cadd9d-4547-4a00-8aae-8e9e876b8d24.png)
 
 DevOps menurut pandangan saya yaitu gabungan antara Development dan Operation yang berarti menggabungkan proses development/pengembangan dari sebuah sistem/aplikasi dengan operation/operasional yang bertujuan untuk mempercepat pembuatan aplikasi dan meminimalisir adanya kesalahan pada saat deploying aplikasi.
