@@ -136,6 +136,68 @@ sudo systemctl status apache2
 
 Langkah selanjutnya kita coba cek melalui browser dengan mengetikan ip server
 
+![image](https://user-images.githubusercontent.com/78194305/186704308-b3f47eb5-8577-4137-a144-3bce8078fc9a.png)
+
+
+## Membuat localtunnel pada web server apache2
+
+Pertama-tama yang kita lakukan adalah instalalsi node.js menggunakan nvm untuk melakukan instalasi dapat mengikuti langkah-langkah di bawah ini.
+
+```
+sudo apt install curl
+```
+
+![image](https://user-images.githubusercontent.com/78194305/186704993-97c3cfee-069d-4ea9-88ec-91534d36a2ed.png)
+
+
+```
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+```
+
+![image](https://user-images.githubusercontent.com/78194305/186705345-1822881c-0067-4ac1-806e-6e42a1ac8fd0.png)
+
+```
+exec bash
+```
+
+![image](https://user-images.githubusercontent.com/78194305/186705488-ddbc408f-d24c-45b6-be68-70284de1c457.png)
+
+```
+nvm install 14
+```
+
+```
+node -v
+```
+
+![image](https://user-images.githubusercontent.com/78194305/186705931-45054514-41ad-4863-ad11-f36e80b96913.png)
+
+selanjutnya kita lakukan proses instalasi dengan npm yang sudah kita install
+
+```
+npm install -g localtunnel
+```
+
+![image](https://user-images.githubusercontent.com/78194305/186706348-e49c8e52-8415-4708-acfb-14a208b19556.png)
+
+Untuk menjalankan localtunel kalian dapat mengikuti perintah di bawah ini.
+
+```
+lt — port 80
+```
+
+![image](https://user-images.githubusercontent.com/78194305/186706883-95564c81-ac75-47db-9452-e174a3a443c8.png)
+
+
+Kemudian salin URL lalu paste kan di browser kalian
+
+![image](https://user-images.githubusercontent.com/78194305/186707193-1177f48e-8b60-4e5a-bfb0-218d392d3788.png)
+
+tampilan smartphone
+
+![image](https://user-images.githubusercontent.com/78194305/186707862-58532135-d0c7-431e-a382-854dff33bf3c.png)
+
+
 
 
 
