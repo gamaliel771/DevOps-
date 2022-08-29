@@ -59,6 +59,16 @@ Kemudia pilih repository nya
 
 Kemudian saya akan melakukan perubahan pada file /public/index.html bagian <title>WaysHub</title> menjadi <title>WaysHub - Nama Anda</title>
 
+![Screenshot_20220829_192210](https://user-images.githubusercontent.com/78194305/187200237-10172e45-78f9-4122-8696-13c97432cdad.png)
+
+Kemudian commit change
+
+Kembali lagi ke website cloudflares
+
+![image](https://user-images.githubusercontent.com/78194305/187200325-cfc1ac5e-9469-4e63-aa73-58371fb43da9.png)
+
+![Screenshot_20220829_190745](https://user-images.githubusercontent.com/78194305/187200410-103e9e52-83a6-4e2c-b4b5-6ed7d6ee7536.png)
+
 
 
 
