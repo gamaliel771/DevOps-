@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/78194305/187710887-2d46f381-f4dc-4675-ac8c-de32aacdafc7.png)
+
 Konfigurasi web server dengan reverse proxy dan load balancing hingga dapat di akses melalui browser.
 
 - [ ] Definisikan apa itu Web Server menurut pemahamanmu
