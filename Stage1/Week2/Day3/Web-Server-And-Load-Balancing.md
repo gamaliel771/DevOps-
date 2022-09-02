@@ -66,7 +66,7 @@ cd /etc/nginx
 
 Setelah itu saya membuat direktori baru lalu masuk ke direktori baru
 ```
-mkdir dumways
+mkdir week2
 ```
 ![image](https://user-images.githubusercontent.com/78194305/188037908-42900cd7-207d-4ac8-986c-bf13fe41e371.png)
 ```
@@ -74,7 +74,7 @@ sudo nano proxy.conf
 ```
 ```
 server { 
-    server_name mydomain.xyz; 
+    server_name dumbways.xyz; 
   
     location / { 
              proxy_pass http://10.145.77.200:3000;
